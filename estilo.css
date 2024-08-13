@@ -7,7 +7,7 @@
 .Componentes {
     background-color: #00211D;
     width: 100vw; /*Viweport Width*/
-    height: 100vw; /*Viewport Height*/
+    height: 100vh; /*Viewport Height*/
     display: flex;
     justify-content: center;
     align-items: center;
